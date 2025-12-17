@@ -1,19 +1,66 @@
-# 장명준 (Myeongjun Jang)
+# 👋 Hi there, I'm Myeongjun Jang
 
-👋 안녕하세요! 저는 **열정적인 소프트웨어 개발자**입니다.  
-🔍 코딩에 대한 깊은 관심을 바탕으로, **문제 해결**과 **효율적인 알고리즘**을 탐구하며 성장하는 중입니다.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Myeongjun%20Jang&fontSize=90" />
+</div>
 
-### 주요 기술 스택
-- 💻 **프로그래밍 언어**: C++, JavaScript, Java  
-  (효율적인 성능과 유연한 구조를 고려한 코드 작성)
-- 🔧 **도구 및 기술**: Git, VSCode, Docker, Node.js, Webpack  
-  (협업과 배포 자동화를 통해 개발 과정의 효율을 극대화)
-- 🌱 **현재 배우는 것**: React, 머신러닝  
-  (웹 애플리케이션 개발과 AI 모델 구축을 위한 깊이 있는 학습)
+<div align="center">
+  <h3>🌱 Growing Developer | Commited Team Player | Tech Leader</h3>
+</div>
 
-### 최근 프로젝트
-- 🛠️ **웹 애플리케이션 개발**: React와 Redux를 사용한 사용자 맞춤형 대시보드 구축  
-- 🤖 **머신러닝**: Python과 TensorFlow를 활용한 데이터 분석 및 예측 모델 실험
+<br>
 
+명지대학교 컴퓨터공학과에 재학 중이며, **Spring Boot** 기반의 백엔드 개발과 **React Native**를 활용한 모바일 앱 개발에 주력하고 있습니다.
+단순한 기능 구현을 넘어, **팀원과 함께 성장하는 코드 문화**를 만드는 것에 가치를 둡니다.
 
-**언제든지 새로운 기술을 배우고, 더 나은 개발자로 성장하는 데 힘쓰고 있습니다.**
+- 🎓 **Myongji Univ.** Computer Engineering (Sophomore)
+- 👑 **UMC (University MakeUs Challenge)** Web Part Leader & Demo Day Awardee
+- 🏫 **MAP (MJU Academic Press)** 2026 President (Leading 60+ members)
+
+<br>
+
+## 🛠 Tech Stack
+
+### 🎨 Frontend & Mobile
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+### 💾 Backend
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+
+### 🚀 Tools & DevOps
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+
+<br>
+
+## 🔭 Featured Projects
+
+### 🔮 Divine (Developing)
+> **Saju(Fortune-telling) based Dating Application**
+- **Role:** Full-stack Developer (Core Feature Implementation)
+- **Tech:** React Native, Expo, Spring Boot
+- **Key Features:** User Matching Logic based on Saju algorithms, Real-time Chatting.
+
+### 🏆 UMC Demo Day Project
+> **Web Service Team Project**
+- **Achievement:** UMC Demo Day Excellence Award (3rd Place)
+- **Role:** Web Developer & Team Collaborator
+- **Description:** Collaborated with designers and planners to deploy a fully functional web service.
+
+### 💻 Open Source Practice
+> **Contributing to 'Responsively App'**
+- Analyzed open-source structure and practiced feature implementation/bug fixing.
+
+<br>
+
+## ⚡ Github Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=radical" height="180px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=radical" height="180px">
+</div>
+
+<br>
+
+<div align="center">
+  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+</div>
