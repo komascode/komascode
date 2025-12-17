@@ -1,5 +1,3 @@
-# 👋 안녕하세요, 장명준입니다!
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Myeongjun%20Jang&fontSize=90" />
 </div>
@@ -50,15 +48,6 @@
 ### 💻 오픈소스 분석 실습
 > **'Responsively App' 오픈소스 기여**
 - **내용:** 공개 SW 실무 수업을 통해 기존 오픈소스 구조를 분석하고 기능을 추가/수정하는 기여 활동 수행
-
-<br>
-
-## ⚡ 깃허브 활동 (Stats)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=radical" height="180px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=radical" height="180px">
-</div>
 
 <br>
 
