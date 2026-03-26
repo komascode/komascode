@@ -61,9 +61,14 @@
 
 ## 📊 GitHub Stats
 
+<br>
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=komascode&show_icons=true&theme=github_dark" alt="Myeongjun's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komascode&layout=compact&theme=github_dark" alt="Myeongjun's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=komascode&show_icons=true&theme=radical&hide_rank=true" alt="Myeongjun's GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komascode&layout=compact&theme=radical&hide=python" alt="Myeongjun's Top Languages" />
 </div>
 
 <br>
