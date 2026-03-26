@@ -61,10 +61,6 @@
 
 ## 📊 GitHub Stats
 
-<br>
-
-## 📊 GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=komascode&show_icons=true&theme=github_dark&hide_rank=true" alt="Myeongjun's GitHub Stats" />
   
