@@ -59,6 +59,13 @@
 
 <br>
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wkdaudns12&show_icons=true&theme=github_dark" alt="Myeongjun's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkdaudns12&layout=compact&theme=github_dark" alt="Myeongjun's Top Languages" />
+</div>
+
 <div align="center">
   <a href="mailto:wkdaudns12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </div>
