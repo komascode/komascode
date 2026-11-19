@@ -4,15 +4,15 @@
 <table>
   <tr>
     <td><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,redis,gradle" height="40" /></td>
+    <td><img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" title="Java" /> <img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring Boot" title="Spring Boot" /> <img src="https://skillicons.dev/icons?i=hibernate" height="40" alt="JPA / Hibernate" title="JPA / Hibernate" /> <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" title="MySQL" /> <img src="https://skillicons.dev/icons?i=redis" height="40" alt="Redis" title="Redis" /> <img src="https://skillicons.dev/icons?i=gradle" height="40" alt="Gradle" title="Gradle" /></td>
   </tr>
   <tr>
     <td><b>Infra & DevOps</b></td>
-    <td><img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git" height="40" /></td>
+    <td><img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" title="AWS" /> <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" title="Docker" /> <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="GitHub Actions" title="GitHub Actions" /> <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" title="Git" /></td>
   </tr>
   <tr>
     <td><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,ts,tailwind" height="40" /></td>
+    <td><img src="https://skillicons.dev/icons?i=react" height="40" alt="React" title="React" /> <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" title="TypeScript" /> <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" title="Tailwind CSS" /></td>
   </tr>
 </table>
 
@@ -29,5 +29,3 @@
 - [알고리즘](https://github.com/dongne-up/Algorithm)
 
 <br/>
-
-<a href="mailto:jangmj0620@gmail.com"><img src="https://img.shields.io/badge/jangmj0620@gmail.com-0F2027?style=flat-square&logo=gmail&logoColor=white"/></a>
