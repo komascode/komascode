@@ -26,6 +26,5 @@
 ## 📚 Study Together
 - [토비의 스프링 3.1](https://github.com/dongne-up/Toby-Spring-3.1)
 - [컴퓨터 구조 + 운영체제](https://github.com/dongne-up/Computer-Architecture-OS)
-- [알고리즘](https://github.com/dongne-up/Algorithm)
 
 <br/>
